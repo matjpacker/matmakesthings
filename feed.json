@@ -1,0 +1,10 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Mat Makes Things",
+	"icon": "https://micro.blog/matjpacker/avatar.jpg",
+	"home_page_url": "https://matmakesthings.com/",
+	"feed_url": "https://matmakesthings.com/feed.json",
+	"items": [
+		
+	]
+}
